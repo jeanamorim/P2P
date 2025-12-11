@@ -35,8 +35,8 @@ Antes de começar, certifique-se de ter instalado:
 1. Clone o repositório:
 
 \`\`\`bash
-git clone https://github.com/seu-usuario/p2p-payment-app.git
-cd p2p-payment-app
+git clone https://github.com/jeanamorim/P2P.git
+cd P2P
 \`\`\`
 
 2. Instale as dependências:
@@ -225,10 +225,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 3. Commit suas mudanças (`git commit -m 'Adiciona nova feature'`)
 4. Push para a branch (`git push origin feature/nova-feature`)
 5. Abra um Pull Request
-
-## Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
 ## Contato
 
