@@ -1,6 +1,11 @@
 # P2P Payment App
 
 Um aplicativo React Native que demonstra comunicação peer-to-peer (P2P) entre dispositivos usando TCP sockets e descoberta de serviços via Zeroconf/mDNS. Este projeto simula um sistema de pagamentos onde um dispositivo cliente envia transações e outro dispositivo servidor as processa.
+## Images
+
+<img width="568" height="948" alt="Captura de Tela 2025-12-11 às 21 06 53" src="https://github.com/user-attachments/assets/b7b3d573-f88a-4c2e-818e-f99a1aee67bd" />
+<img width="567" height="944" alt="Captura de Tela 2025-12-11 às 21 07 32" src="https://github.com/user-attachments/assets/fe7a8ad4-a778-46f5-8c7e-2ed98f139676" />
+<img width="566" height="945" alt="Captura de Tela 2025-12-11 às 21 07 05" src="https://github.com/user-attachments/assets/0c6db9c0-b850-47c4-a0e8-0d761b149ac2" />
 
 ## Características
 
